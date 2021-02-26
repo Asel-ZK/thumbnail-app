@@ -4,5 +4,5 @@ df -h > file.out
 
 free -m > file2.out
 
-
+top >> file.out
 
